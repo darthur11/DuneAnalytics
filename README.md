@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Task
 ## Overview
 Measure trade execution quality (aka price improvement) of CoW Swap trades compared to an external price source (baseline) and make the results available on a daily basis.
