@@ -1,0 +1,1 @@
+CREATE INDEX IF NOT EXISTS block_time_index on raw.cow_trades (block_time);
