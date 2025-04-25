@@ -1,0 +1,1 @@
+CREATE INDEX IF NOT EXISTS time_index on raw.binance_trades ("time");
